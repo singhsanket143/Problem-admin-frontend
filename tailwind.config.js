@@ -2,6 +2,7 @@
 export default {
   content: [
     "./index.html",
+    "./node_modules/react-toastify/dist/ReactToastify.css",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   safelist: [
